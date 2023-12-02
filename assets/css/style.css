@@ -746,7 +746,7 @@ section .container {
   padding: 2px 15px;
 }
 
-.portfolio #portfolio-flters li {
+/* .portfolio #portfolio-flters li {
   cursor: pointer;
   display: inline-block;
   padding: 8px 16px 10px 16px;
@@ -767,8 +767,8 @@ section .container {
 
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
-}
-
+} */
+/* 
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
@@ -885,7 +885,7 @@ section .container {
 .portfolio .portfolio-wrap:hover .portfolio-info::after {
   bottom: 15px;
   right: 15px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Contact
